@@ -1,0 +1,22 @@
+Metadata-Version: 2.4
+Name: diversevla
+Version: 0.1
+Summary: research project
+Home-page: https://github.com/MuyaoLi-jimo/DiverseVLA.git
+Author: Ran Zhu, Muyao Li
+License: MIT License
+Keywords: Open-ended Learning,Embodied Agents,Large Language Models
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Topic :: Scientific/Engineering :: Artificial Intelligence
+Classifier: Environment :: Console
+Classifier: Programming Language :: Python :: 3.9
+Requires-Python: >=3.9
+Description-Content-Type: text/markdown
+Dynamic: author
+Dynamic: classifier
+Dynamic: description-content-type
+Dynamic: home-page
+Dynamic: keywords
+Dynamic: license
+Dynamic: requires-python
+Dynamic: summary

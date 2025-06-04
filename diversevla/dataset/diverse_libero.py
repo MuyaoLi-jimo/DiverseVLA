@@ -1,0 +1,1 @@
+from libero.libero.benchmark.libero_suite_task_map import libero_task_map

@@ -1,0 +1,7 @@
+README.md
+setup.py
+diversevla.egg-info/PKG-INFO
+diversevla.egg-info/SOURCES.txt
+diversevla.egg-info/dependency_links.txt
+diversevla.egg-info/not-zip-safe
+diversevla.egg-info/top_level.txt

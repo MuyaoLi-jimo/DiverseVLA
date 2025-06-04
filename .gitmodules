@@ -1,0 +1,6 @@
+[submodule "OpenVLA"]
+	path = OpenVLA
+	url = https://github.com/openvla/openvla.git
+[submodule "LIBERO"]
+	path = LIBERO
+	url = https://github.com/Lifelong-Robot-Learning/LIBERO.git
