@@ -1,0 +1,61 @@
+Task suite: libero_object
+
+Task: collect the lettered broth and set it in the container
+Starting episode 1...
+Saved rollout MP4 at path ./rollouts/EVAL-libero_object-openvla-two-2025_06_06-02_42_48/2025_06_06-02_42_48--episode=1--success=False--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: False
+# episodes completed so far: 1
+# successes: 0 (0.0%)
+
+Task: collect the lettered broth and set it in the container
+Starting episode 2...
+Saved rollout MP4 at path ./rollouts/EVAL-libero_object-openvla-two-2025_06_06-02_42_48/2025_06_06-02_42_48--episode=2--success=False--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: False
+# episodes completed so far: 2
+# successes: 0 (0.0%)
+
+Task: collect the lettered broth and set it in the container
+Starting episode 3...
+Saved rollout MP4 at path ./rollouts/EVAL-libero_object-openvla-two-2025_06_06-02_42_48/2025_06_06-02_42_48--episode=3--success=False--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: False
+# episodes completed so far: 3
+# successes: 0 (0.0%)
+Current task success rate: 0.0
+Current total success rate: 0.0
+
+Task: grab the cream cheese and put it in the basket
+Starting episode 1...
+Saved rollout MP4 at path ./rollouts/EVAL-libero_object-openvla-two-2025_06_06-02_42_48/2025_06_06-02_42_48--episode=4--success=True--task=pick_up_the_cream_cheese_and_place_it_in_the_baske.mp4
+Success: True
+# episodes completed so far: 4
+# successes: 1 (25.0%)
+
+Task: grab the cream cheese and put it in the basket
+Starting episode 2...
+Saved rollout MP4 at path ./rollouts/EVAL-libero_object-openvla-two-2025_06_06-02_42_48/2025_06_06-02_42_48--episode=5--success=True--task=pick_up_the_cream_cheese_and_place_it_in_the_baske.mp4
+Success: True
+# episodes completed so far: 5
+# successes: 2 (40.0%)
+
+Task: grab the cream cheese and put it in the basket
+Starting episode 3...
+Saved rollout MP4 at path ./rollouts/EVAL-libero_object-openvla-two-2025_06_06-02_42_48/2025_06_06-02_42_48--episode=6--success=True--task=pick_up_the_cream_cheese_and_place_it_in_the_baske.mp4
+Success: True
+# episodes completed so far: 6
+# successes: 3 (50.0%)
+Current task success rate: 1.0
+Current total success rate: 0.5
+
+Task: grab the vinaigrette and put it in the cart
+Starting episode 1...
+Saved rollout MP4 at path ./rollouts/EVAL-libero_object-openvla-two-2025_06_06-02_42_48/2025_06_06-02_42_48--episode=7--success=True--task=pick_up_the_salad_dressing_and_place_it_in_the_bas.mp4
+Success: True
+# episodes completed so far: 7
+# successes: 4 (57.1%)
+
+Task: grab the vinaigrette and put it in the cart
+Starting episode 2...
+Saved rollout MP4 at path ./rollouts/EVAL-libero_object-openvla-two-2025_06_06-02_42_48/2025_06_06-02_42_48--episode=8--success=False--task=pick_up_the_salad_dressing_and_place_it_in_the_bas.mp4
+Success: False
+# episodes completed so far: 8
+# successes: 4 (50.0%)

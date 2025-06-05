@@ -18,7 +18,7 @@ def get_instruction(task:str):
 @dataclass
 class GenerateDiverseConfig:
     libero_suite_name:str = "libero_object"
-    change_scope: Literal["one", "two", "all"] = "all"
+    change_scope: str = "all"
     output_path:str = f""
     
     model:str = "gpt-4o"
