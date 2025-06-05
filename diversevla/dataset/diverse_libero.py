@@ -24,7 +24,7 @@ class GenerateDiverseConfig:
     model:str = "gpt-4o"
     
     def __post_init__(self):
-        self.output_path = Path(f"./data/{self.libero_suite_name}/{self.change_scope}/instruction.json")
+        self.output_path = Path(f"./assets/{self.libero_suite_name}/{self.change_scope}/instruction.json")
         self.output_path.parent.mkdir(parents=True,exist_ok=True)
    
 @draccus.wrap() 
