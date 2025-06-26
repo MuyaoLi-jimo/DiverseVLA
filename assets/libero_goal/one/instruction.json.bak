@@ -1,0 +1,52 @@
+[
+    {
+        "task": "open_the_middle_drawer_of_the_cabinet",
+        "instruction": "open the middle drawer of the cabinet",
+        "new_instroduction": "open the central drawer of the cabinet"
+    },
+    {
+        "task": "put_the_bowl_on_the_stove",
+        "instruction": "put the bowl on the stove",
+        "new_instroduction": "Set the dish on the stove."
+    },
+    {
+        "task": "put_the_wine_bottle_on_top_of_the_cabinet",
+        "instruction": "put the wine bottle on top of the cabinet",
+        "new_instroduction": "Place the wine bottle on top of the cabinet."
+    },
+    {
+        "task": "open_the_top_drawer_and_put_the_bowl_inside",
+        "instruction": "open the top drawer and put the bowl inside",
+        "new_instroduction": "open the upper drawer and put the bowl inside"
+    },
+    {
+        "task": "put_the_bowl_on_top_of_the_cabinet",
+        "instruction": "put the bowl on top of the cabinet",
+        "new_instroduction": "Place the bowl on top of the cabinet."
+    },
+    {
+        "task": "push_the_plate_to_the_front_of_the_stove",
+        "instruction": "push the plate to the front of the stove",
+        "new_instroduction": "move the plate to the front of the stove"
+    },
+    {
+        "task": "put_the_cream_cheese_in_the_bowl",
+        "instruction": "put the cream cheese in the bowl",
+        "new_instroduction": "Place the cream cheese in the bowl."
+    },
+    {
+        "task": "turn_on_the_stove",
+        "instruction": "turn on the stove",
+        "new_instroduction": "switch on the stove"
+    },
+    {
+        "task": "put_the_bowl_on_the_plate",
+        "instruction": "put the bowl on the plate",
+        "new_instroduction": "Place the bowl on the dish."
+    },
+    {
+        "task": "put_the_wine_bottle_on_the_rack",
+        "instruction": "put the wine bottle on the rack",
+        "new_instroduction": "Place the wine bottle on the shelf."
+    }
+]

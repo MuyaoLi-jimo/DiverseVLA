@@ -14,7 +14,7 @@ THE REVISED SENTENCE:
 """
 
 ALL_PROMPT = """
-Rewrite the entire sentence with significant changes in structure and wording, while ensuring that the overall meaning remains the same.
+Rewrite the entire sentence with significant changes in structure and wording, while ensuring that the overall meaning remains the same. you can change like: please xxx? or OpenVLA, can you xxx?
 SENTENCE: {sentence}
 THE REVISED SENTENCE:
 """
@@ -26,12 +26,15 @@ PROMPT_MAP={
 }
 
 def revise_instruct(data,change_scope,model_id="gpt-4o"):
+    if change_scope == "zero":
+        data["new_instroduction"] = data["instruction"]
+        return [data]
     input_data = {
         "messages":[fm_server.create_user_message(input_type="text",user_prompt=PROMPT_MAP[change_scope].format(sentence=data["instruction"]))],
         "model_id":model_id,
         "temperature":0.7,
     }
-    output = fm_server.generate_responce(data=input_data,api_key=os.getenv("OPENAI_API_KEY"),base_url="https://aihubmix.com/v1")
+    output = fm_server.generate_responce(data=input_data,api_key=os.getenv("AIHUBMIX_API"),base_url="https://aihubmix.com/v1")
     data["new_instroduction"] = output["content"]
     return [data]
 

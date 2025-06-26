@@ -17,8 +17,9 @@ def get_instruction(task:str):
 
 @dataclass
 class GenerateDiverseConfig:
-    libero_suite_name:str = "libero_object"
-    change_scope: str = "all"
+    
+    libero_suite_name:str = "libero_goal"
+    change_scope: str = "zero" #one, two ,zero, all
     output_path:str = f""
     
     model:str = "gpt-4o"
@@ -32,6 +33,7 @@ def revise_datasets(cfg:GenerateDiverseConfig):
     tasks = get_tasks(cfg.libero_suite_name)
     instruction_dict = { task:get_instruction(task) for task in tasks}
     instruction_list = [ {"task":task,"instruction":instruction} for task,instruction in instruction_dict.items()]
+
     revise_instruct_wrapper = partial(revise_instruct,change_scope=cfg.change_scope)
     datas = mp_utils.get_multiple_response(revise_instruct_wrapper,input_datas=instruction_list,)
     data_dict = { data["task"]:data["new_instroduction"] for data in datas}

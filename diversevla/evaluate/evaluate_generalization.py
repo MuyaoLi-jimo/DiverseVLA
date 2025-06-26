@@ -67,7 +67,7 @@ class GenerateConfig:
     load_in_4bit: bool = False                       # (For OpenVLA only) Load with 4-bit quantization
 
     center_crop: bool = True                         # Center crop? (if trained w/ random crop image aug)
-
+    # CUDA_VISIBLE_DEVICES=2  python diversevla/evaluate/evaluate_generalization.py --pretrained_checkpoint /share/lmy/models/openvla-7b-finetuned-libero-goal --task_suite_name libero_goal --change_scope all
     #################################################################################################################
     # LIBERO environment-specific parameters
     #################################################################################################################

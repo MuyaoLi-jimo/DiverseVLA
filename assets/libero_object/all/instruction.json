@@ -2,51 +2,51 @@
     {
         "task": "pick_up_the_alphabet_soup_and_place_it_in_the_basket",
         "instruction": "pick up the alphabet soup and place it in the basket",
-        "new_instroduction": "Gather the alphabet soup and set it inside the basket."
+        "new_instroduction": "Could you gather the alphabet soup and put it into the basket?"
     },
     {
         "task": "pick_up_the_cream_cheese_and_place_it_in_the_basket",
         "instruction": "pick up the cream cheese and place it in the basket",
-        "new_instroduction": "Grab the cream cheese and put it into the basket."
+        "new_instroduction": "Could you grab the cream cheese and put it into the basket, please?"
     },
     {
         "task": "pick_up_the_salad_dressing_and_place_it_in_the_basket",
         "instruction": "pick up the salad dressing and place it in the basket",
-        "new_instroduction": "Grab the salad dressing and put it into the basket."
+        "new_instroduction": "Could you please grab the salad dressing and add it to the basket?"
     },
     {
         "task": "pick_up_the_bbq_sauce_and_place_it_in_the_basket",
         "instruction": "pick up the bbq sauce and place it in the basket",
-        "new_instroduction": "Grab the barbecue sauce and put it into the basket."
+        "new_instroduction": "Could you grab the barbecue sauce and put it in the basket?"
     },
     {
         "task": "pick_up_the_ketchup_and_place_it_in_the_basket",
         "instruction": "pick up the ketchup and place it in the basket",
-        "new_instroduction": "Grab the ketchup bottle and set it inside the basket."
+        "new_instroduction": "Could you grab the ketchup and put it in the basket?"
     },
     {
         "task": "pick_up_the_tomato_sauce_and_place_it_in_the_basket",
         "instruction": "pick up the tomato sauce and place it in the basket",
-        "new_instroduction": "Grab the tomato sauce and drop it into the basket."
+        "new_instroduction": "Could you grab the tomato sauce and put it into the basket?"
     },
     {
         "task": "pick_up_the_butter_and_place_it_in_the_basket",
         "instruction": "pick up the butter and place it in the basket",
-        "new_instroduction": "Grab the butter and put it into the basket."
+        "new_instroduction": "Could you grab the butter and put it in the basket?"
     },
     {
         "task": "pick_up_the_milk_and_place_it_in_the_basket",
         "instruction": "pick up the milk and place it in the basket",
-        "new_instroduction": "Grab the milk and set it into the basket."
+        "new_instroduction": "Could you grab the milk and put it into the basket?"
     },
     {
         "task": "pick_up_the_chocolate_pudding_and_place_it_in_the_basket",
         "instruction": "pick up the chocolate pudding and place it in the basket",
-        "new_instroduction": "Grab the chocolate pudding and set it into the basket."
+        "new_instroduction": "Could you take the chocolate pudding and set it in the basket?"
     },
     {
         "task": "pick_up_the_orange_juice_and_place_it_in_the_basket",
         "instruction": "pick up the orange juice and place it in the basket",
-        "new_instroduction": "Grab the orange juice and put it in the basket."
+        "new_instroduction": "Could you grab the orange juice and put it in the basket?"
     }
 ]

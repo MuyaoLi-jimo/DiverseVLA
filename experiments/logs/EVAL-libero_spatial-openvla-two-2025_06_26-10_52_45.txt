@@ -1,0 +1,162 @@
+Task suite: libero_spatial
+
+Task: lift the dark dish between the platter and the ramekin and set it on the platter
+Starting episode 1...
+Saved rollout MP4 at path ./rollouts/EVAL-libero_spatial-openvla-two-2025_06_26-10_52_45/2025_06_26-10_52_45--episode=1--success=True--task=pick_up_the_black_bowl_between_the_plate_and_the_r.mp4
+Success: True
+# episodes completed so far: 1
+# successes: 1 (100.0%)
+
+Task: lift the dark dish between the platter and the ramekin and set it on the platter
+Starting episode 2...
+Saved rollout MP4 at path ./rollouts/EVAL-libero_spatial-openvla-two-2025_06_26-10_52_45/2025_06_26-10_52_45--episode=2--success=False--task=pick_up_the_black_bowl_between_the_plate_and_the_r.mp4
+Success: False
+# episodes completed so far: 2
+# successes: 1 (50.0%)
+
+Task: lift the dark dish between the platter and the ramekin and set it on the platter
+Starting episode 3...
+Saved rollout MP4 at path ./rollouts/EVAL-libero_spatial-openvla-two-2025_06_26-10_52_45/2025_06_26-10_52_45--episode=3--success=False--task=pick_up_the_black_bowl_between_the_plate_and_the_r.mp4
+Success: False
+# episodes completed so far: 3
+# successes: 1 (33.3%)
+Current task success rate: 0.3333333333333333
+Current total success rate: 0.3333333333333333
+
+Task: lift the dark dish beside the ramekin and set it on the platter
+Starting episode 1...
+Saved rollout MP4 at path ./rollouts/EVAL-libero_spatial-openvla-two-2025_06_26-10_52_45/2025_06_26-10_52_45--episode=4--success=True--task=pick_up_the_black_bowl_next_to_the_ramekin_and_pla.mp4
+Success: True
+# episodes completed so far: 4
+# successes: 2 (50.0%)
+
+Task: lift the dark dish beside the ramekin and set it on the platter
+Starting episode 2...
+Saved rollout MP4 at path ./rollouts/EVAL-libero_spatial-openvla-two-2025_06_26-10_52_45/2025_06_26-10_52_45--episode=5--success=True--task=pick_up_the_black_bowl_next_to_the_ramekin_and_pla.mp4
+Success: True
+# episodes completed so far: 5
+# successes: 3 (60.0%)
+
+Task: lift the dark dish beside the ramekin and set it on the platter
+Starting episode 3...
+Saved rollout MP4 at path ./rollouts/EVAL-libero_spatial-openvla-two-2025_06_26-10_52_45/2025_06_26-10_52_45--episode=6--success=True--task=pick_up_the_black_bowl_next_to_the_ramekin_and_pla.mp4
+Success: True
+# episodes completed so far: 6
+# successes: 4 (66.7%)
+Current task success rate: 1.0
+Current total success rate: 0.6666666666666666
+
+Task: Lift the dark dish from the middle of the table and set it on the platter.
+Starting episode 1...
+Saved rollout MP4 at path ./rollouts/EVAL-libero_spatial-openvla-two-2025_06_26-10_52_45/2025_06_26-10_52_45--episode=7--success=False--task=pick_up_the_black_bowl_from_table_center_and_place.mp4
+Success: False
+# episodes completed so far: 7
+# successes: 4 (57.1%)
+
+Task: Lift the dark dish from the middle of the table and set it on the platter.
+Starting episode 2...
+Saved rollout MP4 at path ./rollouts/EVAL-libero_spatial-openvla-two-2025_06_26-10_52_45/2025_06_26-10_52_45--episode=8--success=True--task=pick_up_the_black_bowl_from_table_center_and_place.mp4
+Success: True
+# episodes completed so far: 8
+# successes: 5 (62.5%)
+
+Task: Lift the dark dish from the middle of the table and set it on the platter.
+Starting episode 3...
+Saved rollout MP4 at path ./rollouts/EVAL-libero_spatial-openvla-two-2025_06_26-10_52_45/2025_06_26-10_52_45--episode=9--success=True--task=pick_up_the_black_bowl_from_table_center_and_place.mp4
+Success: True
+# episodes completed so far: 9
+# successes: 6 (66.7%)
+Current task success rate: 0.6666666666666666
+Current total success rate: 0.6666666666666666
+
+Task: lift the dark dish from the biscuit container and set it on the platter
+Starting episode 1...
+Saved rollout MP4 at path ./rollouts/EVAL-libero_spatial-openvla-two-2025_06_26-10_52_45/2025_06_26-10_52_45--episode=10--success=False--task=pick_up_the_black_bowl_on_the_cookie_box_and_place.mp4
+Success: False
+# episodes completed so far: 10
+# successes: 6 (60.0%)
+
+Task: lift the dark dish from the biscuit container and set it on the platter
+Starting episode 2...
+Saved rollout MP4 at path ./rollouts/EVAL-libero_spatial-openvla-two-2025_06_26-10_52_45/2025_06_26-10_52_45--episode=11--success=False--task=pick_up_the_black_bowl_on_the_cookie_box_and_place.mp4
+Success: False
+# episodes completed so far: 11
+# successes: 6 (54.5%)
+
+Task: lift the dark dish from the biscuit container and set it on the platter
+Starting episode 3...
+Saved rollout MP4 at path ./rollouts/EVAL-libero_spatial-openvla-two-2025_06_26-10_52_45/2025_06_26-10_52_45--episode=12--success=True--task=pick_up_the_black_bowl_on_the_cookie_box_and_place.mp4
+Success: True
+# episodes completed so far: 12
+# successes: 7 (58.3%)
+Current task success rate: 0.3333333333333333
+Current total success rate: 0.5833333333333334
+
+Task: Retrieve the dark dish from the upper drawer of the wooden cupboard and set it on the platter.
+Starting episode 1...
+Saved rollout MP4 at path ./rollouts/EVAL-libero_spatial-openvla-two-2025_06_26-10_52_45/2025_06_26-10_52_45--episode=13--success=False--task=pick_up_the_black_bowl_in_the_top_drawer_of_the_wo.mp4
+Success: False
+# episodes completed so far: 13
+# successes: 7 (53.8%)
+
+Task: Retrieve the dark dish from the upper drawer of the wooden cupboard and set it on the platter.
+Starting episode 2...
+Saved rollout MP4 at path ./rollouts/EVAL-libero_spatial-openvla-two-2025_06_26-10_52_45/2025_06_26-10_52_45--episode=14--success=False--task=pick_up_the_black_bowl_in_the_top_drawer_of_the_wo.mp4
+Success: False
+# episodes completed so far: 14
+# successes: 7 (50.0%)
+
+Task: Retrieve the dark dish from the upper drawer of the wooden cupboard and set it on the platter.
+Starting episode 3...
+Saved rollout MP4 at path ./rollouts/EVAL-libero_spatial-openvla-two-2025_06_26-10_52_45/2025_06_26-10_52_45--episode=15--success=False--task=pick_up_the_black_bowl_in_the_top_drawer_of_the_wo.mp4
+Success: False
+# episodes completed so far: 15
+# successes: 7 (46.7%)
+Current task success rate: 0.0
+Current total success rate: 0.4666666666666667
+
+Task: lift the dark dish from the ramekin and set it onto the platter
+Starting episode 1...
+Saved rollout MP4 at path ./rollouts/EVAL-libero_spatial-openvla-two-2025_06_26-10_52_45/2025_06_26-10_52_45--episode=16--success=False--task=pick_up_the_black_bowl_on_the_ramekin_and_place_it.mp4
+Success: False
+# episodes completed so far: 16
+# successes: 7 (43.8%)
+
+Task: lift the dark dish from the ramekin and set it onto the platter
+Starting episode 2...
+Saved rollout MP4 at path ./rollouts/EVAL-libero_spatial-openvla-two-2025_06_26-10_52_45/2025_06_26-10_52_45--episode=17--success=True--task=pick_up_the_black_bowl_on_the_ramekin_and_place_it.mp4
+Success: True
+# episodes completed so far: 17
+# successes: 8 (47.1%)
+
+Task: lift the dark dish from the ramekin and set it onto the platter
+Starting episode 3...
+Saved rollout MP4 at path ./rollouts/EVAL-libero_spatial-openvla-two-2025_06_26-10_52_45/2025_06_26-10_52_45--episode=18--success=True--task=pick_up_the_black_bowl_on_the_ramekin_and_place_it.mp4
+Success: True
+# episodes completed so far: 18
+# successes: 9 (50.0%)
+Current task success rate: 0.6666666666666666
+Current total success rate: 0.5
+
+Task: grab the dark dish beside the biscuit container and set it on the platter
+Starting episode 1...
+Saved rollout MP4 at path ./rollouts/EVAL-libero_spatial-openvla-two-2025_06_26-10_52_45/2025_06_26-10_52_45--episode=19--success=False--task=pick_up_the_black_bowl_next_to_the_cookie_box_and_.mp4
+Success: False
+# episodes completed so far: 19
+# successes: 9 (47.4%)
+
+Task: grab the dark dish beside the biscuit container and set it on the platter
+Starting episode 2...
+Saved rollout MP4 at path ./rollouts/EVAL-libero_spatial-openvla-two-2025_06_26-10_52_45/2025_06_26-10_52_45--episode=20--success=True--task=pick_up_the_black_bowl_next_to_the_cookie_box_and_.mp4
+Success: True
+# episodes completed so far: 20
+# successes: 10 (50.0%)
+
+Task: grab the dark dish beside the biscuit container and set it on the platter
+Starting episode 3...
+Saved rollout MP4 at path ./rollouts/EVAL-libero_spatial-openvla-two-2025_06_26-10_52_45/2025_06_26-10_52_45--episode=21--success=True--task=pick_up_the_black_bowl_next_to_the_cookie_box_and_.mp4
+Success: True
+# episodes completed so far: 21
+# successes: 11 (52.4%)
+Current task success rate: 0.6666666666666666
+Current total success rate: 0.5238095238095238

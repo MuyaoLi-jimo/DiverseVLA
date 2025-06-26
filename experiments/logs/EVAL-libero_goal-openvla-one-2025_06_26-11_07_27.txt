@@ -1,0 +1,24 @@
+Task suite: libero_goal
+
+Task: open the central drawer of the cabinet
+Starting episode 1...
+Saved rollout MP4 at path ./rollouts/EVAL-libero_goal-openvla-one-2025_06_26-11_07_27/2025_06_26-11_07_27--episode=1--success=False--task=open_the_middle_drawer_of_the_cabinet.mp4
+Success: False
+# episodes completed so far: 1
+# successes: 0 (0.0%)
+
+Task: open the central drawer of the cabinet
+Starting episode 2...
+Saved rollout MP4 at path ./rollouts/EVAL-libero_goal-openvla-one-2025_06_26-11_07_27/2025_06_26-11_07_27--episode=2--success=False--task=open_the_middle_drawer_of_the_cabinet.mp4
+Success: False
+# episodes completed so far: 2
+# successes: 0 (0.0%)
+
+Task: open the central drawer of the cabinet
+Starting episode 3...
+Saved rollout MP4 at path ./rollouts/EVAL-libero_goal-openvla-one-2025_06_26-11_07_27/2025_06_26-11_07_27--episode=3--success=True--task=open_the_middle_drawer_of_the_cabinet.mp4
+Success: True
+# episodes completed so far: 3
+# successes: 1 (33.3%)
+Current task success rate: 0.3333333333333333
+Current total success rate: 0.3333333333333333
