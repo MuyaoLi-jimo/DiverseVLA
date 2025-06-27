@@ -1,0 +1,52 @@
+{
+    "pick up the orange juice and place it in the basket": [
+        "Could you grab the orange juice and put it into the basket?",
+        "Please take the orange juice and move it to the basket.",
+        "OpenVLA, can you lift the orange juice and then drop it in the basket?"
+    ],
+    "pick up the ketchup and place it in the basket": [
+        "Could you grab the ketchup and put it into the basket?",
+        "Please take the ketchup and move it to the basket.",
+        "OpenVLA, can you lift the ketchup and then drop it in the basket?"
+    ],
+    "pick up the cream cheese and place it in the basket": [
+        "Could you please grab the cream cheese and put it into the basket?",
+        "OpenVLA, can you lift the cream cheese and then drop it in the basket?",
+        "Would you mind taking the cream cheese and placing it inside the basket?"
+    ],
+    "pick up the bbq sauce and place it in the basket": [
+        "Could you grab the bbq sauce and put it into the basket?",
+        "Please take the bbq sauce and move it to the basket.",
+        "OpenVLA, can you lift the bbq sauce and place it inside the basket?"
+    ],
+    "pick up the alphabet soup and place it in the basket": [
+        "Please grab the alphabet soup and put it into the basket.",
+        "OpenVLA, can you lift the alphabet soup and then set it down inside the basket?",
+        "Could you take the alphabet soup and move it to the basket?"
+    ],
+    "pick up the milk and place it in the basket": [
+        "Could you please grab the milk and put it into the basket?",
+        "OpenVLA, can you lift the milk and then set it down inside the basket?",
+        "Would you mind taking the milk and placing it within the basket?"
+    ],
+    "pick up the salad dressing and place it in the basket": [
+        "Please grab the salad dressing and put it into the basket.",
+        "OpenVLA, can you take the salad dressing and place it inside the basket?",
+        "Could you lift the salad dressing and then drop it in the basket?"
+    ],
+    "pick up the butter and place it in the basket": [
+        "Could you please grab the butter and put it into the basket?",
+        "OpenVLA, can you lift the butter and then drop it in the basket?",
+        "Would you mind taking the butter and moving it to the basket?"
+    ],
+    "pick up the tomato sauce and place it in the basket": [
+        "Could you grab the tomato sauce and put it into the basket?",
+        "Please take the tomato sauce and move it to the basket.",
+        "OpenVLA, can you lift the tomato sauce and then drop it in the basket?"
+    ],
+    "pick up the chocolate pudding and place it in the basket": [
+        "Could you please grab the chocolate pudding and put it into the basket?",
+        "OpenVLA, can you lift the chocolate pudding and then drop it in the basket?",
+        "Would you mind taking the chocolate pudding and moving it to the basket?"
+    ]
+}

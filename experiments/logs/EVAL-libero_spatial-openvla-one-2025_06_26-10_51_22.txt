@@ -206,3 +206,26 @@ Success: False
 # successes: 22 (81.5%)
 Current task success rate: 0.3333333333333333
 Current total success rate: 0.8148148148148148
+
+Task: Pick up the dark bowl on the wooden cabinet and place it on the plate.
+Starting episode 1...
+Saved rollout MP4 at path ./rollouts/EVAL-libero_spatial-openvla-one-2025_06_26-10_51_22/2025_06_26-10_51_22--episode=28--success=True--task=pick_up_the_black_bowl_on_the_wooden_cabinet_and_p.mp4
+Success: True
+# episodes completed so far: 28
+# successes: 23 (82.1%)
+
+Task: Pick up the dark bowl on the wooden cabinet and place it on the plate.
+Starting episode 2...
+Saved rollout MP4 at path ./rollouts/EVAL-libero_spatial-openvla-one-2025_06_26-10_51_22/2025_06_26-10_51_22--episode=29--success=True--task=pick_up_the_black_bowl_on_the_wooden_cabinet_and_p.mp4
+Success: True
+# episodes completed so far: 29
+# successes: 24 (82.8%)
+
+Task: Pick up the dark bowl on the wooden cabinet and place it on the plate.
+Starting episode 3...
+Saved rollout MP4 at path ./rollouts/EVAL-libero_spatial-openvla-one-2025_06_26-10_51_22/2025_06_26-10_51_22--episode=30--success=True--task=pick_up_the_black_bowl_on_the_wooden_cabinet_and_p.mp4
+Success: True
+# episodes completed so far: 30
+# successes: 25 (83.3%)
+Current task success rate: 1.0
+Current total success rate: 0.8333333333333334

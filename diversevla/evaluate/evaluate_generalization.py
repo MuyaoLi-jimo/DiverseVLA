@@ -65,9 +65,9 @@ class GenerateConfig:
     pretrained_checkpoint: Union[str, Path] = ""     # Pretrained checkpoint path
     load_in_8bit: bool = False                       # (For OpenVLA only) Load with 8-bit quantization
     load_in_4bit: bool = False                       # (For OpenVLA only) Load with 4-bit quantization
-
+    # CUDA_VISIBLE_DEVICES=5 python diversevla/evaluate/evaluate_generalization.py --pretrained_checkpoint /share/lmy/models/trained-openvla-7b/openvla-7b-finetuned-libero-spatial --task_suite_name libero_spatial --change_scope two
     center_crop: bool = True                         # Center crop? (if trained w/ random crop image aug)
-    # CUDA_VISIBLE_DEVICES=2  python diversevla/evaluate/evaluate_generalization.py --pretrained_checkpoint /share/lmy/models/openvla-7b-finetuned-libero-goal --task_suite_name libero_goal --change_scope all
+    
     #################################################################################################################
     # LIBERO environment-specific parameters
     #################################################################################################################

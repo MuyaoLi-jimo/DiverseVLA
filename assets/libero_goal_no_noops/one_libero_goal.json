@@ -1,0 +1,52 @@
+{
+    "put the bowl on the plate": [
+        "place the bowl on the plate",
+        "put the dish on the plate",
+        "put the bowl onto the plate"
+    ],
+    "put the wine bottle on the rack": [
+        "place the wine bottle on the rack",
+        "put the wine container on the rack",
+        "put the wine bottle on the shelf"
+    ],
+    "open the top drawer and put the bowl inside": [
+        "unfasten the top drawer and put the bowl inside",
+        "open the uppermost drawer and put the bowl inside",
+        "open the top drawer and place the bowl inside"
+    ],
+    "put the cream cheese in the bowl": [
+        "place the cream cheese in the bowl",
+        "put the soft cheese in the bowl",
+        "put the cream cheese into the dish"
+    ],
+    "put the wine bottle on top of the cabinet": [
+        "place the wine bottle on top of the cabinet",
+        "put the wine container on top of the cabinet",
+        "put the wine bottle above the cabinet"
+    ],
+    "push the plate to the front of the stove": [
+        "shove the plate to the front of the stove",
+        "push the dish to the front of the stove",
+        "push the plate to the forefront of the stove"
+    ],
+    "turn on the stove": [
+        "activate the stove",
+        "turn on the cooker",
+        "switch on the stove"
+    ],
+    "put the bowl on the stove": [
+        "place the bowl on the stove",
+        "put the dish on the stove",
+        "put the bowl on the cooker"
+    ],
+    "put the bowl on top of the cabinet": [
+        "place the bowl on top of the cabinet",
+        "put the dish on top of the cabinet",
+        "put the bowl above the cabinet"
+    ],
+    "open the middle drawer of the cabinet": [
+        "unlock the middle drawer of the cabinet",
+        "open the central drawer of the cabinet",
+        "open the middle compartment of the cabinet"
+    ]
+}

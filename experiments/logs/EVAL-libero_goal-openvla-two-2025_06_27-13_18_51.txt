@@ -1,0 +1,231 @@
+Task suite: libero_goal
+
+Task: unlock the central compartment of the cupboard
+Starting episode 1...
+Saved rollout MP4 at path ./rollouts/EVAL-libero_goal-openvla-two-2025_06_27-13_18_51/2025_06_27-13_18_51--episode=1--success=False--task=open_the_middle_drawer_of_the_cabinet.mp4
+Success: False
+# episodes completed so far: 1
+# successes: 0 (0.0%)
+
+Task: unlock the central compartment of the cupboard
+Starting episode 2...
+Saved rollout MP4 at path ./rollouts/EVAL-libero_goal-openvla-two-2025_06_27-13_18_51/2025_06_27-13_18_51--episode=2--success=False--task=open_the_middle_drawer_of_the_cabinet.mp4
+Success: False
+# episodes completed so far: 2
+# successes: 0 (0.0%)
+
+Task: unlock the central compartment of the cupboard
+Starting episode 3...
+Saved rollout MP4 at path ./rollouts/EVAL-libero_goal-openvla-two-2025_06_27-13_18_51/2025_06_27-13_18_51--episode=3--success=False--task=open_the_middle_drawer_of_the_cabinet.mp4
+Success: False
+# episodes completed so far: 3
+# successes: 0 (0.0%)
+Current task success rate: 0.0
+Current total success rate: 0.0
+
+Task: Place the dish on the burner.
+Starting episode 1...
+Saved rollout MP4 at path ./rollouts/EVAL-libero_goal-openvla-two-2025_06_27-13_18_51/2025_06_27-13_18_51--episode=4--success=False--task=put_the_bowl_on_the_stove.mp4
+Success: False
+# episodes completed so far: 4
+# successes: 0 (0.0%)
+
+Task: Place the dish on the burner.
+Starting episode 2...
+Saved rollout MP4 at path ./rollouts/EVAL-libero_goal-openvla-two-2025_06_27-13_18_51/2025_06_27-13_18_51--episode=5--success=True--task=put_the_bowl_on_the_stove.mp4
+Success: True
+# episodes completed so far: 5
+# successes: 1 (20.0%)
+
+Task: Place the dish on the burner.
+Starting episode 3...
+Saved rollout MP4 at path ./rollouts/EVAL-libero_goal-openvla-two-2025_06_27-13_18_51/2025_06_27-13_18_51--episode=6--success=True--task=put_the_bowl_on_the_stove.mp4
+Success: True
+# episodes completed so far: 6
+# successes: 2 (33.3%)
+Current task success rate: 0.6666666666666666
+Current total success rate: 0.3333333333333333
+
+Task: Place the wine bottle above the cupboard.
+Starting episode 1...
+Saved rollout MP4 at path ./rollouts/EVAL-libero_goal-openvla-two-2025_06_27-13_18_51/2025_06_27-13_18_51--episode=7--success=False--task=put_the_wine_bottle_on_top_of_the_cabinet.mp4
+Success: False
+# episodes completed so far: 7
+# successes: 2 (28.6%)
+
+Task: Place the wine bottle above the cupboard.
+Starting episode 2...
+Saved rollout MP4 at path ./rollouts/EVAL-libero_goal-openvla-two-2025_06_27-13_18_51/2025_06_27-13_18_51--episode=8--success=True--task=put_the_wine_bottle_on_top_of_the_cabinet.mp4
+Success: True
+# episodes completed so far: 8
+# successes: 3 (37.5%)
+
+Task: Place the wine bottle above the cupboard.
+Starting episode 3...
+Saved rollout MP4 at path ./rollouts/EVAL-libero_goal-openvla-two-2025_06_27-13_18_51/2025_06_27-13_18_51--episode=9--success=True--task=put_the_wine_bottle_on_top_of_the_cabinet.mp4
+Success: True
+# episodes completed so far: 9
+# successes: 4 (44.4%)
+Current task success rate: 0.6666666666666666
+Current total success rate: 0.4444444444444444
+
+Task: unlock the upper drawer and place the bowl within
+Starting episode 1...
+Saved rollout MP4 at path ./rollouts/EVAL-libero_goal-openvla-two-2025_06_27-13_18_51/2025_06_27-13_18_51--episode=10--success=True--task=open_the_top_drawer_and_put_the_bowl_inside.mp4
+Success: True
+# episodes completed so far: 10
+# successes: 5 (50.0%)
+
+Task: unlock the upper drawer and place the bowl within
+Starting episode 2...
+Saved rollout MP4 at path ./rollouts/EVAL-libero_goal-openvla-two-2025_06_27-13_18_51/2025_06_27-13_18_51--episode=11--success=False--task=open_the_top_drawer_and_put_the_bowl_inside.mp4
+Success: False
+# episodes completed so far: 11
+# successes: 5 (45.5%)
+
+Task: unlock the upper drawer and place the bowl within
+Starting episode 3...
+Saved rollout MP4 at path ./rollouts/EVAL-libero_goal-openvla-two-2025_06_27-13_18_51/2025_06_27-13_18_51--episode=12--success=True--task=open_the_top_drawer_and_put_the_bowl_inside.mp4
+Success: True
+# episodes completed so far: 12
+# successes: 6 (50.0%)
+Current task success rate: 0.6666666666666666
+Current total success rate: 0.5
+
+Task: Place the dish atop the cupboard.
+Starting episode 1...
+Saved rollout MP4 at path ./rollouts/EVAL-libero_goal-openvla-two-2025_06_27-13_18_51/2025_06_27-13_18_51--episode=13--success=False--task=put_the_bowl_on_top_of_the_cabinet.mp4
+Success: False
+# episodes completed so far: 13
+# successes: 6 (46.2%)
+
+Task: Place the dish atop the cupboard.
+Starting episode 2...
+Saved rollout MP4 at path ./rollouts/EVAL-libero_goal-openvla-two-2025_06_27-13_18_51/2025_06_27-13_18_51--episode=14--success=True--task=put_the_bowl_on_top_of_the_cabinet.mp4
+Success: True
+# episodes completed so far: 14
+# successes: 7 (50.0%)
+
+Task: Place the dish atop the cupboard.
+Starting episode 3...
+Saved rollout MP4 at path ./rollouts/EVAL-libero_goal-openvla-two-2025_06_27-13_18_51/2025_06_27-13_18_51--episode=15--success=False--task=put_the_bowl_on_top_of_the_cabinet.mp4
+Success: False
+# episodes completed so far: 15
+# successes: 7 (46.7%)
+Current task success rate: 0.3333333333333333
+Current total success rate: 0.4666666666666667
+
+Task: slide the dish to the front of the cooker
+Starting episode 1...
+Saved rollout MP4 at path ./rollouts/EVAL-libero_goal-openvla-two-2025_06_27-13_18_51/2025_06_27-13_18_51--episode=16--success=False--task=push_the_plate_to_the_front_of_the_stove.mp4
+Success: False
+# episodes completed so far: 16
+# successes: 7 (43.8%)
+
+Task: slide the dish to the front of the cooker
+Starting episode 2...
+Saved rollout MP4 at path ./rollouts/EVAL-libero_goal-openvla-two-2025_06_27-13_18_51/2025_06_27-13_18_51--episode=17--success=False--task=push_the_plate_to_the_front_of_the_stove.mp4
+Success: False
+# episodes completed so far: 17
+# successes: 7 (41.2%)
+
+Task: slide the dish to the front of the cooker
+Starting episode 3...
+Saved rollout MP4 at path ./rollouts/EVAL-libero_goal-openvla-two-2025_06_27-13_18_51/2025_06_27-13_18_51--episode=18--success=True--task=push_the_plate_to_the_front_of_the_stove.mp4
+Success: True
+# episodes completed so far: 18
+# successes: 8 (44.4%)
+Current task success rate: 0.3333333333333333
+Current total success rate: 0.4444444444444444
+
+Task: Place the soft cheese into the dish.
+Starting episode 1...
+Saved rollout MP4 at path ./rollouts/EVAL-libero_goal-openvla-two-2025_06_27-13_18_51/2025_06_27-13_18_51--episode=19--success=False--task=put_the_cream_cheese_in_the_bowl.mp4
+Success: False
+# episodes completed so far: 19
+# successes: 8 (42.1%)
+
+Task: Place the soft cheese into the dish.
+Starting episode 2...
+Saved rollout MP4 at path ./rollouts/EVAL-libero_goal-openvla-two-2025_06_27-13_18_51/2025_06_27-13_18_51--episode=20--success=True--task=put_the_cream_cheese_in_the_bowl.mp4
+Success: True
+# episodes completed so far: 20
+# successes: 9 (45.0%)
+
+Task: Place the soft cheese into the dish.
+Starting episode 3...
+Saved rollout MP4 at path ./rollouts/EVAL-libero_goal-openvla-two-2025_06_27-13_18_51/2025_06_27-13_18_51--episode=21--success=False--task=put_the_cream_cheese_in_the_bowl.mp4
+Success: False
+# episodes completed so far: 21
+# successes: 9 (42.9%)
+Current task success rate: 0.3333333333333333
+Current total success rate: 0.42857142857142855
+
+Task: ignite the burner
+Starting episode 1...
+Saved rollout MP4 at path ./rollouts/EVAL-libero_goal-openvla-two-2025_06_27-13_18_51/2025_06_27-13_18_51--episode=22--success=False--task=turn_on_the_stove.mp4
+Success: False
+# episodes completed so far: 22
+# successes: 9 (40.9%)
+
+Task: ignite the burner
+Starting episode 2...
+Saved rollout MP4 at path ./rollouts/EVAL-libero_goal-openvla-two-2025_06_27-13_18_51/2025_06_27-13_18_51--episode=23--success=True--task=turn_on_the_stove.mp4
+Success: True
+# episodes completed so far: 23
+# successes: 10 (43.5%)
+
+Task: ignite the burner
+Starting episode 3...
+Saved rollout MP4 at path ./rollouts/EVAL-libero_goal-openvla-two-2025_06_27-13_18_51/2025_06_27-13_18_51--episode=24--success=False--task=turn_on_the_stove.mp4
+Success: False
+# episodes completed so far: 24
+# successes: 10 (41.7%)
+Current task success rate: 0.3333333333333333
+Current total success rate: 0.4166666666666667
+
+Task: Place the dish on the platter.
+Starting episode 1...
+Saved rollout MP4 at path ./rollouts/EVAL-libero_goal-openvla-two-2025_06_27-13_18_51/2025_06_27-13_18_51--episode=25--success=False--task=put_the_bowl_on_the_plate.mp4
+Success: False
+# episodes completed so far: 25
+# successes: 10 (40.0%)
+
+Task: Place the dish on the platter.
+Starting episode 2...
+Saved rollout MP4 at path ./rollouts/EVAL-libero_goal-openvla-two-2025_06_27-13_18_51/2025_06_27-13_18_51--episode=26--success=True--task=put_the_bowl_on_the_plate.mp4
+Success: True
+# episodes completed so far: 26
+# successes: 11 (42.3%)
+
+Task: Place the dish on the platter.
+Starting episode 3...
+Saved rollout MP4 at path ./rollouts/EVAL-libero_goal-openvla-two-2025_06_27-13_18_51/2025_06_27-13_18_51--episode=27--success=False--task=put_the_bowl_on_the_plate.mp4
+Success: False
+# episodes completed so far: 27
+# successes: 11 (40.7%)
+Current task success rate: 0.3333333333333333
+Current total success rate: 0.4074074074074074
+
+Task: place the wine bottle on the shelf
+Starting episode 1...
+Saved rollout MP4 at path ./rollouts/EVAL-libero_goal-openvla-two-2025_06_27-13_18_51/2025_06_27-13_18_51--episode=28--success=False--task=put_the_wine_bottle_on_the_rack.mp4
+Success: False
+# episodes completed so far: 28
+# successes: 11 (39.3%)
+
+Task: place the wine bottle on the shelf
+Starting episode 2...
+Saved rollout MP4 at path ./rollouts/EVAL-libero_goal-openvla-two-2025_06_27-13_18_51/2025_06_27-13_18_51--episode=29--success=False--task=put_the_wine_bottle_on_the_rack.mp4
+Success: False
+# episodes completed so far: 29
+# successes: 11 (37.9%)
+
+Task: place the wine bottle on the shelf
+Starting episode 3...
+Saved rollout MP4 at path ./rollouts/EVAL-libero_goal-openvla-two-2025_06_27-13_18_51/2025_06_27-13_18_51--episode=30--success=False--task=put_the_wine_bottle_on_the_rack.mp4
+Success: False
+# episodes completed so far: 30
+# successes: 11 (36.7%)
+Current task success rate: 0.0
+Current total success rate: 0.36666666666666664

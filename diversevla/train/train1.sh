@@ -1,0 +1,1 @@
+CUDA_VISIBLE_DEVICES=0,1 torchrun --standalone --nnodes 1 --nproc-per-node 2 diversevla/train/finetune.py --dataset_name "libero_object_no_noops"  --vla_path "/share/lmy/models/openvla-7b-finetuned-libero-object"

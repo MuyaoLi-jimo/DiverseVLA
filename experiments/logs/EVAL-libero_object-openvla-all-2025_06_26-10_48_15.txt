@@ -190,3 +190,42 @@ Saved rollout MP4 at path ./rollouts/EVAL-libero_object-openvla-all-2025_06_26-1
 Success: True
 # episodes completed so far: 25
 # successes: 20 (80.0%)
+
+Task: Could you take the chocolate pudding and set it in the basket?
+Starting episode 2...
+Saved rollout MP4 at path ./rollouts/EVAL-libero_object-openvla-all-2025_06_26-10_48_15/2025_06_26-10_48_15--episode=26--success=True--task=pick_up_the_chocolate_pudding_and_place_it_in_the_.mp4
+Success: True
+# episodes completed so far: 26
+# successes: 21 (80.8%)
+
+Task: Could you take the chocolate pudding and set it in the basket?
+Starting episode 3...
+Saved rollout MP4 at path ./rollouts/EVAL-libero_object-openvla-all-2025_06_26-10_48_15/2025_06_26-10_48_15--episode=27--success=True--task=pick_up_the_chocolate_pudding_and_place_it_in_the_.mp4
+Success: True
+# episodes completed so far: 27
+# successes: 22 (81.5%)
+Current task success rate: 1.0
+Current total success rate: 0.8148148148148148
+
+Task: Could you grab the orange juice and put it in the basket?
+Starting episode 1...
+Saved rollout MP4 at path ./rollouts/EVAL-libero_object-openvla-all-2025_06_26-10_48_15/2025_06_26-10_48_15--episode=28--success=True--task=pick_up_the_orange_juice_and_place_it_in_the_baske.mp4
+Success: True
+# episodes completed so far: 28
+# successes: 23 (82.1%)
+
+Task: Could you grab the orange juice and put it in the basket?
+Starting episode 2...
+Saved rollout MP4 at path ./rollouts/EVAL-libero_object-openvla-all-2025_06_26-10_48_15/2025_06_26-10_48_15--episode=29--success=True--task=pick_up_the_orange_juice_and_place_it_in_the_baske.mp4
+Success: True
+# episodes completed so far: 29
+# successes: 24 (82.8%)
+
+Task: Could you grab the orange juice and put it in the basket?
+Starting episode 3...
+Saved rollout MP4 at path ./rollouts/EVAL-libero_object-openvla-all-2025_06_26-10_48_15/2025_06_26-10_48_15--episode=30--success=True--task=pick_up_the_orange_juice_and_place_it_in_the_baske.mp4
+Success: True
+# episodes completed so far: 30
+# successes: 25 (83.3%)
+Current task success rate: 1.0
+Current total success rate: 0.8333333333333334

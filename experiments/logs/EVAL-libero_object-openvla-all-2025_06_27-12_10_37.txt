@@ -1,0 +1,231 @@
+Task suite: libero_object
+
+Task: Could you gather the alphabet soup and put it into the basket?
+Starting episode 1...
+Saved rollout MP4 at path ./rollouts/EVAL-libero_object-openvla-all-2025_06_27-12_10_37/2025_06_27-12_10_37--episode=1--success=True--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: True
+# episodes completed so far: 1
+# successes: 1 (100.0%)
+
+Task: Could you gather the alphabet soup and put it into the basket?
+Starting episode 2...
+Saved rollout MP4 at path ./rollouts/EVAL-libero_object-openvla-all-2025_06_27-12_10_37/2025_06_27-12_10_37--episode=2--success=True--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: True
+# episodes completed so far: 2
+# successes: 2 (100.0%)
+
+Task: Could you gather the alphabet soup and put it into the basket?
+Starting episode 3...
+Saved rollout MP4 at path ./rollouts/EVAL-libero_object-openvla-all-2025_06_27-12_10_37/2025_06_27-12_10_37--episode=3--success=True--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: True
+# episodes completed so far: 3
+# successes: 3 (100.0%)
+Current task success rate: 1.0
+Current total success rate: 1.0
+
+Task: Could you grab the cream cheese and put it into the basket, please?
+Starting episode 1...
+Saved rollout MP4 at path ./rollouts/EVAL-libero_object-openvla-all-2025_06_27-12_10_37/2025_06_27-12_10_37--episode=4--success=True--task=pick_up_the_cream_cheese_and_place_it_in_the_baske.mp4
+Success: True
+# episodes completed so far: 4
+# successes: 4 (100.0%)
+
+Task: Could you grab the cream cheese and put it into the basket, please?
+Starting episode 2...
+Saved rollout MP4 at path ./rollouts/EVAL-libero_object-openvla-all-2025_06_27-12_10_37/2025_06_27-12_10_37--episode=5--success=True--task=pick_up_the_cream_cheese_and_place_it_in_the_baske.mp4
+Success: True
+# episodes completed so far: 5
+# successes: 5 (100.0%)
+
+Task: Could you grab the cream cheese and put it into the basket, please?
+Starting episode 3...
+Saved rollout MP4 at path ./rollouts/EVAL-libero_object-openvla-all-2025_06_27-12_10_37/2025_06_27-12_10_37--episode=6--success=False--task=pick_up_the_cream_cheese_and_place_it_in_the_baske.mp4
+Success: False
+# episodes completed so far: 6
+# successes: 5 (83.3%)
+Current task success rate: 0.6666666666666666
+Current total success rate: 0.8333333333333334
+
+Task: Could you please grab the salad dressing and add it to the basket?
+Starting episode 1...
+Saved rollout MP4 at path ./rollouts/EVAL-libero_object-openvla-all-2025_06_27-12_10_37/2025_06_27-12_10_37--episode=7--success=False--task=pick_up_the_salad_dressing_and_place_it_in_the_bas.mp4
+Success: False
+# episodes completed so far: 7
+# successes: 5 (71.4%)
+
+Task: Could you please grab the salad dressing and add it to the basket?
+Starting episode 2...
+Saved rollout MP4 at path ./rollouts/EVAL-libero_object-openvla-all-2025_06_27-12_10_37/2025_06_27-12_10_37--episode=8--success=True--task=pick_up_the_salad_dressing_and_place_it_in_the_bas.mp4
+Success: True
+# episodes completed so far: 8
+# successes: 6 (75.0%)
+
+Task: Could you please grab the salad dressing and add it to the basket?
+Starting episode 3...
+Saved rollout MP4 at path ./rollouts/EVAL-libero_object-openvla-all-2025_06_27-12_10_37/2025_06_27-12_10_37--episode=9--success=True--task=pick_up_the_salad_dressing_and_place_it_in_the_bas.mp4
+Success: True
+# episodes completed so far: 9
+# successes: 7 (77.8%)
+Current task success rate: 0.6666666666666666
+Current total success rate: 0.7777777777777778
+
+Task: Could you grab the barbecue sauce and put it in the basket?
+Starting episode 1...
+Saved rollout MP4 at path ./rollouts/EVAL-libero_object-openvla-all-2025_06_27-12_10_37/2025_06_27-12_10_37--episode=10--success=True--task=pick_up_the_bbq_sauce_and_place_it_in_the_basket.mp4
+Success: True
+# episodes completed so far: 10
+# successes: 8 (80.0%)
+
+Task: Could you grab the barbecue sauce and put it in the basket?
+Starting episode 2...
+Saved rollout MP4 at path ./rollouts/EVAL-libero_object-openvla-all-2025_06_27-12_10_37/2025_06_27-12_10_37--episode=11--success=True--task=pick_up_the_bbq_sauce_and_place_it_in_the_basket.mp4
+Success: True
+# episodes completed so far: 11
+# successes: 9 (81.8%)
+
+Task: Could you grab the barbecue sauce and put it in the basket?
+Starting episode 3...
+Saved rollout MP4 at path ./rollouts/EVAL-libero_object-openvla-all-2025_06_27-12_10_37/2025_06_27-12_10_37--episode=12--success=True--task=pick_up_the_bbq_sauce_and_place_it_in_the_basket.mp4
+Success: True
+# episodes completed so far: 12
+# successes: 10 (83.3%)
+Current task success rate: 1.0
+Current total success rate: 0.8333333333333334
+
+Task: Could you grab the ketchup and put it in the basket?
+Starting episode 1...
+Saved rollout MP4 at path ./rollouts/EVAL-libero_object-openvla-all-2025_06_27-12_10_37/2025_06_27-12_10_37--episode=13--success=True--task=pick_up_the_ketchup_and_place_it_in_the_basket.mp4
+Success: True
+# episodes completed so far: 13
+# successes: 11 (84.6%)
+
+Task: Could you grab the ketchup and put it in the basket?
+Starting episode 2...
+Saved rollout MP4 at path ./rollouts/EVAL-libero_object-openvla-all-2025_06_27-12_10_37/2025_06_27-12_10_37--episode=14--success=False--task=pick_up_the_ketchup_and_place_it_in_the_basket.mp4
+Success: False
+# episodes completed so far: 14
+# successes: 11 (78.6%)
+
+Task: Could you grab the ketchup and put it in the basket?
+Starting episode 3...
+Saved rollout MP4 at path ./rollouts/EVAL-libero_object-openvla-all-2025_06_27-12_10_37/2025_06_27-12_10_37--episode=15--success=True--task=pick_up_the_ketchup_and_place_it_in_the_basket.mp4
+Success: True
+# episodes completed so far: 15
+# successes: 12 (80.0%)
+Current task success rate: 0.6666666666666666
+Current total success rate: 0.8
+
+Task: Could you grab the tomato sauce and put it into the basket?
+Starting episode 1...
+Saved rollout MP4 at path ./rollouts/EVAL-libero_object-openvla-all-2025_06_27-12_10_37/2025_06_27-12_10_37--episode=16--success=True--task=pick_up_the_tomato_sauce_and_place_it_in_the_baske.mp4
+Success: True
+# episodes completed so far: 16
+# successes: 13 (81.2%)
+
+Task: Could you grab the tomato sauce and put it into the basket?
+Starting episode 2...
+Saved rollout MP4 at path ./rollouts/EVAL-libero_object-openvla-all-2025_06_27-12_10_37/2025_06_27-12_10_37--episode=17--success=True--task=pick_up_the_tomato_sauce_and_place_it_in_the_baske.mp4
+Success: True
+# episodes completed so far: 17
+# successes: 14 (82.4%)
+
+Task: Could you grab the tomato sauce and put it into the basket?
+Starting episode 3...
+Saved rollout MP4 at path ./rollouts/EVAL-libero_object-openvla-all-2025_06_27-12_10_37/2025_06_27-12_10_37--episode=18--success=True--task=pick_up_the_tomato_sauce_and_place_it_in_the_baske.mp4
+Success: True
+# episodes completed so far: 18
+# successes: 15 (83.3%)
+Current task success rate: 1.0
+Current total success rate: 0.8333333333333334
+
+Task: Could you grab the butter and put it in the basket?
+Starting episode 1...
+Saved rollout MP4 at path ./rollouts/EVAL-libero_object-openvla-all-2025_06_27-12_10_37/2025_06_27-12_10_37--episode=19--success=True--task=pick_up_the_butter_and_place_it_in_the_basket.mp4
+Success: True
+# episodes completed so far: 19
+# successes: 16 (84.2%)
+
+Task: Could you grab the butter and put it in the basket?
+Starting episode 2...
+Saved rollout MP4 at path ./rollouts/EVAL-libero_object-openvla-all-2025_06_27-12_10_37/2025_06_27-12_10_37--episode=20--success=True--task=pick_up_the_butter_and_place_it_in_the_basket.mp4
+Success: True
+# episodes completed so far: 20
+# successes: 17 (85.0%)
+
+Task: Could you grab the butter and put it in the basket?
+Starting episode 3...
+Saved rollout MP4 at path ./rollouts/EVAL-libero_object-openvla-all-2025_06_27-12_10_37/2025_06_27-12_10_37--episode=21--success=True--task=pick_up_the_butter_and_place_it_in_the_basket.mp4
+Success: True
+# episodes completed so far: 21
+# successes: 18 (85.7%)
+Current task success rate: 1.0
+Current total success rate: 0.8571428571428571
+
+Task: Could you grab the milk and put it into the basket?
+Starting episode 1...
+Saved rollout MP4 at path ./rollouts/EVAL-libero_object-openvla-all-2025_06_27-12_10_37/2025_06_27-12_10_37--episode=22--success=True--task=pick_up_the_milk_and_place_it_in_the_basket.mp4
+Success: True
+# episodes completed so far: 22
+# successes: 19 (86.4%)
+
+Task: Could you grab the milk and put it into the basket?
+Starting episode 2...
+Saved rollout MP4 at path ./rollouts/EVAL-libero_object-openvla-all-2025_06_27-12_10_37/2025_06_27-12_10_37--episode=23--success=True--task=pick_up_the_milk_and_place_it_in_the_basket.mp4
+Success: True
+# episodes completed so far: 23
+# successes: 20 (87.0%)
+
+Task: Could you grab the milk and put it into the basket?
+Starting episode 3...
+Saved rollout MP4 at path ./rollouts/EVAL-libero_object-openvla-all-2025_06_27-12_10_37/2025_06_27-12_10_37--episode=24--success=True--task=pick_up_the_milk_and_place_it_in_the_basket.mp4
+Success: True
+# episodes completed so far: 24
+# successes: 21 (87.5%)
+Current task success rate: 1.0
+Current total success rate: 0.875
+
+Task: Could you take the chocolate pudding and set it in the basket?
+Starting episode 1...
+Saved rollout MP4 at path ./rollouts/EVAL-libero_object-openvla-all-2025_06_27-12_10_37/2025_06_27-12_10_37--episode=25--success=True--task=pick_up_the_chocolate_pudding_and_place_it_in_the_.mp4
+Success: True
+# episodes completed so far: 25
+# successes: 22 (88.0%)
+
+Task: Could you take the chocolate pudding and set it in the basket?
+Starting episode 2...
+Saved rollout MP4 at path ./rollouts/EVAL-libero_object-openvla-all-2025_06_27-12_10_37/2025_06_27-12_10_37--episode=26--success=True--task=pick_up_the_chocolate_pudding_and_place_it_in_the_.mp4
+Success: True
+# episodes completed so far: 26
+# successes: 23 (88.5%)
+
+Task: Could you take the chocolate pudding and set it in the basket?
+Starting episode 3...
+Saved rollout MP4 at path ./rollouts/EVAL-libero_object-openvla-all-2025_06_27-12_10_37/2025_06_27-12_10_37--episode=27--success=True--task=pick_up_the_chocolate_pudding_and_place_it_in_the_.mp4
+Success: True
+# episodes completed so far: 27
+# successes: 24 (88.9%)
+Current task success rate: 1.0
+Current total success rate: 0.8888888888888888
+
+Task: Could you grab the orange juice and put it in the basket?
+Starting episode 1...
+Saved rollout MP4 at path ./rollouts/EVAL-libero_object-openvla-all-2025_06_27-12_10_37/2025_06_27-12_10_37--episode=28--success=True--task=pick_up_the_orange_juice_and_place_it_in_the_baske.mp4
+Success: True
+# episodes completed so far: 28
+# successes: 25 (89.3%)
+
+Task: Could you grab the orange juice and put it in the basket?
+Starting episode 2...
+Saved rollout MP4 at path ./rollouts/EVAL-libero_object-openvla-all-2025_06_27-12_10_37/2025_06_27-12_10_37--episode=29--success=True--task=pick_up_the_orange_juice_and_place_it_in_the_baske.mp4
+Success: True
+# episodes completed so far: 29
+# successes: 26 (89.7%)
+
+Task: Could you grab the orange juice and put it in the basket?
+Starting episode 3...
+Saved rollout MP4 at path ./rollouts/EVAL-libero_object-openvla-all-2025_06_27-12_10_37/2025_06_27-12_10_37--episode=30--success=True--task=pick_up_the_orange_juice_and_place_it_in_the_baske.mp4
+Success: True
+# episodes completed so far: 30
+# successes: 27 (90.0%)
+Current task success rate: 1.0
+Current total success rate: 0.9

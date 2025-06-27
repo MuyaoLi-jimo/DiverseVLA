@@ -1,0 +1,52 @@
+{
+    "pick up the orange juice and place it in the basket": [
+        "grab the orange juice and put it in the basket",
+        "pick up the orange juice and set it in the basket",
+        "lift the orange juice and place it in the container"
+    ],
+    "pick up the ketchup and place it in the basket": [
+        "grab the ketchup and put it in the basket",
+        "pick up the sauce and place it in the container",
+        "lift the ketchup and set it in the basket"
+    ],
+    "pick up the cream cheese and place it in the basket": [
+        "grab the cream cheese and put it in the basket",
+        "pick up the dairy spread and place it in the container",
+        "lift the cream cheese and deposit it in the basket"
+    ],
+    "pick up the bbq sauce and place it in the basket": [
+        "grab the bbq sauce and put it in the basket",
+        "pick up the barbecue sauce and place it in the container",
+        "lift the bbq sauce and set it in the basket"
+    ],
+    "pick up the alphabet soup and place it in the basket": [
+        "grab the alphabet soup and put it in the basket",
+        "pick up the letter soup and place it in the container",
+        "lift the alphabet soup and set it in the basket"
+    ],
+    "pick up the milk and place it in the basket": [
+        "grab the milk and put it in the basket",
+        "pick up the dairy and place it in the container",
+        "lift the milk and set it in the basket"
+    ],
+    "pick up the salad dressing and place it in the basket": [
+        "grab the salad dressing and put it in the basket",
+        "pick up the dressing and set it in the basket",
+        "lift the salad dressing and place it in the container"
+    ],
+    "pick up the butter and place it in the basket": [
+        "grab the butter and put it in the basket",
+        "pick up the butter and set it in the basket",
+        "lift the butter and place it in the container"
+    ],
+    "pick up the tomato sauce and place it in the basket": [
+        "grab the tomato sauce and put it in the basket",
+        "pick up the ketchup and place it in the container",
+        "lift the tomato sauce and deposit it in the basket"
+    ],
+    "pick up the chocolate pudding and place it in the basket": [
+        "grab the chocolate pudding and put it in the basket",
+        "pick up the chocolate dessert and place it in the container",
+        "lift the chocolate pudding and set it in the basket"
+    ]
+}

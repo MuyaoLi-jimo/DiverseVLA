@@ -1,0 +1,231 @@
+Task suite: libero_spatial
+
+Task: pick up the dark bowl between the plate and the ramekin and place it on the plate
+Starting episode 1...
+Saved rollout MP4 at path ./rollouts/EVAL-libero_spatial-openvla-one-2025_06_27-13_19_54/2025_06_27-13_19_54--episode=1--success=True--task=pick_up_the_black_bowl_between_the_plate_and_the_r.mp4
+Success: True
+# episodes completed so far: 1
+# successes: 1 (100.0%)
+
+Task: pick up the dark bowl between the plate and the ramekin and place it on the plate
+Starting episode 2...
+Saved rollout MP4 at path ./rollouts/EVAL-libero_spatial-openvla-one-2025_06_27-13_19_54/2025_06_27-13_19_54--episode=2--success=False--task=pick_up_the_black_bowl_between_the_plate_and_the_r.mp4
+Success: False
+# episodes completed so far: 2
+# successes: 1 (50.0%)
+
+Task: pick up the dark bowl between the plate and the ramekin and place it on the plate
+Starting episode 3...
+Saved rollout MP4 at path ./rollouts/EVAL-libero_spatial-openvla-one-2025_06_27-13_19_54/2025_06_27-13_19_54--episode=3--success=True--task=pick_up_the_black_bowl_between_the_plate_and_the_r.mp4
+Success: True
+# episodes completed so far: 3
+# successes: 2 (66.7%)
+Current task success rate: 0.6666666666666666
+Current total success rate: 0.6666666666666666
+
+Task: pick up the dark bowl next to the ramekin and place it on the plate
+Starting episode 1...
+Saved rollout MP4 at path ./rollouts/EVAL-libero_spatial-openvla-one-2025_06_27-13_19_54/2025_06_27-13_19_54--episode=4--success=True--task=pick_up_the_black_bowl_next_to_the_ramekin_and_pla.mp4
+Success: True
+# episodes completed so far: 4
+# successes: 3 (75.0%)
+
+Task: pick up the dark bowl next to the ramekin and place it on the plate
+Starting episode 2...
+Saved rollout MP4 at path ./rollouts/EVAL-libero_spatial-openvla-one-2025_06_27-13_19_54/2025_06_27-13_19_54--episode=5--success=True--task=pick_up_the_black_bowl_next_to_the_ramekin_and_pla.mp4
+Success: True
+# episodes completed so far: 5
+# successes: 4 (80.0%)
+
+Task: pick up the dark bowl next to the ramekin and place it on the plate
+Starting episode 3...
+Saved rollout MP4 at path ./rollouts/EVAL-libero_spatial-openvla-one-2025_06_27-13_19_54/2025_06_27-13_19_54--episode=6--success=True--task=pick_up_the_black_bowl_next_to_the_ramekin_and_pla.mp4
+Success: True
+# episodes completed so far: 6
+# successes: 5 (83.3%)
+Current task success rate: 1.0
+Current total success rate: 0.8333333333333334
+
+Task: pick up the dark bowl from table center and place it on the plate
+Starting episode 1...
+Saved rollout MP4 at path ./rollouts/EVAL-libero_spatial-openvla-one-2025_06_27-13_19_54/2025_06_27-13_19_54--episode=7--success=False--task=pick_up_the_black_bowl_from_table_center_and_place.mp4
+Success: False
+# episodes completed so far: 7
+# successes: 5 (71.4%)
+
+Task: pick up the dark bowl from table center and place it on the plate
+Starting episode 2...
+Saved rollout MP4 at path ./rollouts/EVAL-libero_spatial-openvla-one-2025_06_27-13_19_54/2025_06_27-13_19_54--episode=8--success=True--task=pick_up_the_black_bowl_from_table_center_and_place.mp4
+Success: True
+# episodes completed so far: 8
+# successes: 6 (75.0%)
+
+Task: pick up the dark bowl from table center and place it on the plate
+Starting episode 3...
+Saved rollout MP4 at path ./rollouts/EVAL-libero_spatial-openvla-one-2025_06_27-13_19_54/2025_06_27-13_19_54--episode=9--success=True--task=pick_up_the_black_bowl_from_table_center_and_place.mp4
+Success: True
+# episodes completed so far: 9
+# successes: 7 (77.8%)
+Current task success rate: 0.6666666666666666
+Current total success rate: 0.7777777777777778
+
+Task: pick up the dark bowl on the cookie box and place it on the plate
+Starting episode 1...
+Saved rollout MP4 at path ./rollouts/EVAL-libero_spatial-openvla-one-2025_06_27-13_19_54/2025_06_27-13_19_54--episode=10--success=True--task=pick_up_the_black_bowl_on_the_cookie_box_and_place.mp4
+Success: True
+# episodes completed so far: 10
+# successes: 8 (80.0%)
+
+Task: pick up the dark bowl on the cookie box and place it on the plate
+Starting episode 2...
+Saved rollout MP4 at path ./rollouts/EVAL-libero_spatial-openvla-one-2025_06_27-13_19_54/2025_06_27-13_19_54--episode=11--success=True--task=pick_up_the_black_bowl_on_the_cookie_box_and_place.mp4
+Success: True
+# episodes completed so far: 11
+# successes: 9 (81.8%)
+
+Task: pick up the dark bowl on the cookie box and place it on the plate
+Starting episode 3...
+Saved rollout MP4 at path ./rollouts/EVAL-libero_spatial-openvla-one-2025_06_27-13_19_54/2025_06_27-13_19_54--episode=12--success=True--task=pick_up_the_black_bowl_on_the_cookie_box_and_place.mp4
+Success: True
+# episodes completed so far: 12
+# successes: 10 (83.3%)
+Current task success rate: 1.0
+Current total success rate: 0.8333333333333334
+
+Task: Pick up the black bowl in the top drawer of the wooden cupboard and place it on the plate.
+Starting episode 1...
+Saved rollout MP4 at path ./rollouts/EVAL-libero_spatial-openvla-one-2025_06_27-13_19_54/2025_06_27-13_19_54--episode=13--success=True--task=pick_up_the_black_bowl_in_the_top_drawer_of_the_wo.mp4
+Success: True
+# episodes completed so far: 13
+# successes: 11 (84.6%)
+
+Task: Pick up the black bowl in the top drawer of the wooden cupboard and place it on the plate.
+Starting episode 2...
+Saved rollout MP4 at path ./rollouts/EVAL-libero_spatial-openvla-one-2025_06_27-13_19_54/2025_06_27-13_19_54--episode=14--success=False--task=pick_up_the_black_bowl_in_the_top_drawer_of_the_wo.mp4
+Success: False
+# episodes completed so far: 14
+# successes: 11 (78.6%)
+
+Task: Pick up the black bowl in the top drawer of the wooden cupboard and place it on the plate.
+Starting episode 3...
+Saved rollout MP4 at path ./rollouts/EVAL-libero_spatial-openvla-one-2025_06_27-13_19_54/2025_06_27-13_19_54--episode=15--success=True--task=pick_up_the_black_bowl_in_the_top_drawer_of_the_wo.mp4
+Success: True
+# episodes completed so far: 15
+# successes: 12 (80.0%)
+Current task success rate: 0.6666666666666666
+Current total success rate: 0.8
+
+Task: Pick up the dark bowl on the ramekin and place it on the plate.
+Starting episode 1...
+Saved rollout MP4 at path ./rollouts/EVAL-libero_spatial-openvla-one-2025_06_27-13_19_54/2025_06_27-13_19_54--episode=16--success=True--task=pick_up_the_black_bowl_on_the_ramekin_and_place_it.mp4
+Success: True
+# episodes completed so far: 16
+# successes: 13 (81.2%)
+
+Task: Pick up the dark bowl on the ramekin and place it on the plate.
+Starting episode 2...
+Saved rollout MP4 at path ./rollouts/EVAL-libero_spatial-openvla-one-2025_06_27-13_19_54/2025_06_27-13_19_54--episode=17--success=True--task=pick_up_the_black_bowl_on_the_ramekin_and_place_it.mp4
+Success: True
+# episodes completed so far: 17
+# successes: 14 (82.4%)
+
+Task: Pick up the dark bowl on the ramekin and place it on the plate.
+Starting episode 3...
+Saved rollout MP4 at path ./rollouts/EVAL-libero_spatial-openvla-one-2025_06_27-13_19_54/2025_06_27-13_19_54--episode=18--success=True--task=pick_up_the_black_bowl_on_the_ramekin_and_place_it.mp4
+Success: True
+# episodes completed so far: 18
+# successes: 15 (83.3%)
+Current task success rate: 1.0
+Current total success rate: 0.8333333333333334
+
+Task: pick up the dark bowl next to the cookie box and place it on the plate
+Starting episode 1...
+Saved rollout MP4 at path ./rollouts/EVAL-libero_spatial-openvla-one-2025_06_27-13_19_54/2025_06_27-13_19_54--episode=19--success=False--task=pick_up_the_black_bowl_next_to_the_cookie_box_and_.mp4
+Success: False
+# episodes completed so far: 19
+# successes: 15 (78.9%)
+
+Task: pick up the dark bowl next to the cookie box and place it on the plate
+Starting episode 2...
+Saved rollout MP4 at path ./rollouts/EVAL-libero_spatial-openvla-one-2025_06_27-13_19_54/2025_06_27-13_19_54--episode=20--success=True--task=pick_up_the_black_bowl_next_to_the_cookie_box_and_.mp4
+Success: True
+# episodes completed so far: 20
+# successes: 16 (80.0%)
+
+Task: pick up the dark bowl next to the cookie box and place it on the plate
+Starting episode 3...
+Saved rollout MP4 at path ./rollouts/EVAL-libero_spatial-openvla-one-2025_06_27-13_19_54/2025_06_27-13_19_54--episode=21--success=True--task=pick_up_the_black_bowl_next_to_the_cookie_box_and_.mp4
+Success: True
+# episodes completed so far: 21
+# successes: 17 (81.0%)
+Current task success rate: 0.6666666666666666
+Current total success rate: 0.8095238095238095
+
+Task: pick up the dark bowl on the stove and place it on the plate
+Starting episode 1...
+Saved rollout MP4 at path ./rollouts/EVAL-libero_spatial-openvla-one-2025_06_27-13_19_54/2025_06_27-13_19_54--episode=22--success=True--task=pick_up_the_black_bowl_on_the_stove_and_place_it_o.mp4
+Success: True
+# episodes completed so far: 22
+# successes: 18 (81.8%)
+
+Task: pick up the dark bowl on the stove and place it on the plate
+Starting episode 2...
+Saved rollout MP4 at path ./rollouts/EVAL-libero_spatial-openvla-one-2025_06_27-13_19_54/2025_06_27-13_19_54--episode=23--success=True--task=pick_up_the_black_bowl_on_the_stove_and_place_it_o.mp4
+Success: True
+# episodes completed so far: 23
+# successes: 19 (82.6%)
+
+Task: pick up the dark bowl on the stove and place it on the plate
+Starting episode 3...
+Saved rollout MP4 at path ./rollouts/EVAL-libero_spatial-openvla-one-2025_06_27-13_19_54/2025_06_27-13_19_54--episode=24--success=True--task=pick_up_the_black_bowl_on_the_stove_and_place_it_o.mp4
+Success: True
+# episodes completed so far: 24
+# successes: 20 (83.3%)
+Current task success rate: 1.0
+Current total success rate: 0.8333333333333334
+
+Task: pick up the dark bowl next to the plate and place it on the plate
+Starting episode 1...
+Saved rollout MP4 at path ./rollouts/EVAL-libero_spatial-openvla-one-2025_06_27-13_19_54/2025_06_27-13_19_54--episode=25--success=True--task=pick_up_the_black_bowl_next_to_the_plate_and_place.mp4
+Success: True
+# episodes completed so far: 25
+# successes: 21 (84.0%)
+
+Task: pick up the dark bowl next to the plate and place it on the plate
+Starting episode 2...
+Saved rollout MP4 at path ./rollouts/EVAL-libero_spatial-openvla-one-2025_06_27-13_19_54/2025_06_27-13_19_54--episode=26--success=True--task=pick_up_the_black_bowl_next_to_the_plate_and_place.mp4
+Success: True
+# episodes completed so far: 26
+# successes: 22 (84.6%)
+
+Task: pick up the dark bowl next to the plate and place it on the plate
+Starting episode 3...
+Saved rollout MP4 at path ./rollouts/EVAL-libero_spatial-openvla-one-2025_06_27-13_19_54/2025_06_27-13_19_54--episode=27--success=False--task=pick_up_the_black_bowl_next_to_the_plate_and_place.mp4
+Success: False
+# episodes completed so far: 27
+# successes: 22 (81.5%)
+Current task success rate: 0.6666666666666666
+Current total success rate: 0.8148148148148148
+
+Task: Pick up the dark bowl on the wooden cabinet and place it on the plate.
+Starting episode 1...
+Saved rollout MP4 at path ./rollouts/EVAL-libero_spatial-openvla-one-2025_06_27-13_19_54/2025_06_27-13_19_54--episode=28--success=True--task=pick_up_the_black_bowl_on_the_wooden_cabinet_and_p.mp4
+Success: True
+# episodes completed so far: 28
+# successes: 23 (82.1%)
+
+Task: Pick up the dark bowl on the wooden cabinet and place it on the plate.
+Starting episode 2...
+Saved rollout MP4 at path ./rollouts/EVAL-libero_spatial-openvla-one-2025_06_27-13_19_54/2025_06_27-13_19_54--episode=29--success=False--task=pick_up_the_black_bowl_on_the_wooden_cabinet_and_p.mp4
+Success: False
+# episodes completed so far: 29
+# successes: 23 (79.3%)
+
+Task: Pick up the dark bowl on the wooden cabinet and place it on the plate.
+Starting episode 3...
+Saved rollout MP4 at path ./rollouts/EVAL-libero_spatial-openvla-one-2025_06_27-13_19_54/2025_06_27-13_19_54--episode=30--success=True--task=pick_up_the_black_bowl_on_the_wooden_cabinet_and_p.mp4
+Success: True
+# episodes completed so far: 30
+# successes: 24 (80.0%)
+Current task success rate: 0.6666666666666666
+Current total success rate: 0.8

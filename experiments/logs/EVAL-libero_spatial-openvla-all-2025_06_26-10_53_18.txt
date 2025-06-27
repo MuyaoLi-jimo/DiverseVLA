@@ -160,3 +160,72 @@ Success: True
 # successes: 11 (52.4%)
 Current task success rate: 0.6666666666666666
 Current total success rate: 0.5238095238095238
+
+Task: Could you please take the black bowl from the stove and set it down on the plate?
+Starting episode 1...
+Saved rollout MP4 at path ./rollouts/EVAL-libero_spatial-openvla-all-2025_06_26-10_53_18/2025_06_26-10_53_18--episode=22--success=False--task=pick_up_the_black_bowl_on_the_stove_and_place_it_o.mp4
+Success: False
+# episodes completed so far: 22
+# successes: 11 (50.0%)
+
+Task: Could you please take the black bowl from the stove and set it down on the plate?
+Starting episode 2...
+Saved rollout MP4 at path ./rollouts/EVAL-libero_spatial-openvla-all-2025_06_26-10_53_18/2025_06_26-10_53_18--episode=23--success=False--task=pick_up_the_black_bowl_on_the_stove_and_place_it_o.mp4
+Success: False
+# episodes completed so far: 23
+# successes: 11 (47.8%)
+
+Task: Could you please take the black bowl from the stove and set it down on the plate?
+Starting episode 3...
+Saved rollout MP4 at path ./rollouts/EVAL-libero_spatial-openvla-all-2025_06_26-10_53_18/2025_06_26-10_53_18--episode=24--success=False--task=pick_up_the_black_bowl_on_the_stove_and_place_it_o.mp4
+Success: False
+# episodes completed so far: 24
+# successes: 11 (45.8%)
+Current task success rate: 0.0
+Current total success rate: 0.4583333333333333
+
+Task: Would you mind grabbing the dark bowl beside the dish and setting it on top of the dish?
+Starting episode 1...
+Saved rollout MP4 at path ./rollouts/EVAL-libero_spatial-openvla-all-2025_06_26-10_53_18/2025_06_26-10_53_18--episode=25--success=False--task=pick_up_the_black_bowl_next_to_the_plate_and_place.mp4
+Success: False
+# episodes completed so far: 25
+# successes: 11 (44.0%)
+
+Task: Would you mind grabbing the dark bowl beside the dish and setting it on top of the dish?
+Starting episode 2...
+Saved rollout MP4 at path ./rollouts/EVAL-libero_spatial-openvla-all-2025_06_26-10_53_18/2025_06_26-10_53_18--episode=26--success=True--task=pick_up_the_black_bowl_next_to_the_plate_and_place.mp4
+Success: True
+# episodes completed so far: 26
+# successes: 12 (46.2%)
+
+Task: Would you mind grabbing the dark bowl beside the dish and setting it on top of the dish?
+Starting episode 3...
+Saved rollout MP4 at path ./rollouts/EVAL-libero_spatial-openvla-all-2025_06_26-10_53_18/2025_06_26-10_53_18--episode=27--success=False--task=pick_up_the_black_bowl_next_to_the_plate_and_place.mp4
+Success: False
+# episodes completed so far: 27
+# successes: 12 (44.4%)
+Current task success rate: 0.3333333333333333
+Current total success rate: 0.4444444444444444
+
+Task: Could you retrieve the dark bowl from the wooden cabinet and set it onto the dish?
+Starting episode 1...
+Saved rollout MP4 at path ./rollouts/EVAL-libero_spatial-openvla-all-2025_06_26-10_53_18/2025_06_26-10_53_18--episode=28--success=False--task=pick_up_the_black_bowl_on_the_wooden_cabinet_and_p.mp4
+Success: False
+# episodes completed so far: 28
+# successes: 12 (42.9%)
+
+Task: Could you retrieve the dark bowl from the wooden cabinet and set it onto the dish?
+Starting episode 2...
+Saved rollout MP4 at path ./rollouts/EVAL-libero_spatial-openvla-all-2025_06_26-10_53_18/2025_06_26-10_53_18--episode=29--success=True--task=pick_up_the_black_bowl_on_the_wooden_cabinet_and_p.mp4
+Success: True
+# episodes completed so far: 29
+# successes: 13 (44.8%)
+
+Task: Could you retrieve the dark bowl from the wooden cabinet and set it onto the dish?
+Starting episode 3...
+Saved rollout MP4 at path ./rollouts/EVAL-libero_spatial-openvla-all-2025_06_26-10_53_18/2025_06_26-10_53_18--episode=30--success=False--task=pick_up_the_black_bowl_on_the_wooden_cabinet_and_p.mp4
+Success: False
+# episodes completed so far: 30
+# successes: 13 (43.3%)
+Current task success rate: 0.3333333333333333
+Current total success rate: 0.43333333333333335

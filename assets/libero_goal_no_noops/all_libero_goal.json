@@ -1,0 +1,52 @@
+{
+    "put the bowl on the plate": [
+        "Place the bowl onto the plate",
+        "Can you set the bowl on the plate?",
+        "OpenVLA, could you position the bowl on the plate?"
+    ],
+    "put the wine bottle on the rack": [
+        "Please place the wine bottle onto the rack.",
+        "Could you set the wine bottle on the rack?",
+        "OpenVLA, can you position the wine bottle on the rack?"
+    ],
+    "open the top drawer and put the bowl inside": [
+        "Could you please open the top drawer and place the bowl inside?",
+        "OpenVLA, can you open the top drawer to insert the bowl?",
+        "Would you mind opening the top drawer for the bowl to be placed inside?"
+    ],
+    "put the cream cheese in the bowl": [
+        "Please place the cream cheese into the bowl.",
+        "Could you transfer the cream cheese to the bowl?",
+        "OpenVLA, can you move the cream cheese into the bowl?"
+    ],
+    "put the wine bottle on top of the cabinet": [
+        "Please place the wine bottle above the cabinet.",
+        "Can you set the wine bottle on the cabinet's top?",
+        "OpenVLA, could you position the wine bottle atop the cabinet?"
+    ],
+    "push the plate to the front of the stove": [
+        "Could you move the plate towards the stove's front?",
+        "Please slide the plate to the front part of the stove.",
+        "OpenVLA, can you push the plate forward on the stove?"
+    ],
+    "turn on the stove": [
+        "Could you please switch the stove on?",
+        "OpenVLA, can you activate the stove?",
+        "Would you mind turning the stove on for me?"
+    ],
+    "put the bowl on the stove": [
+        "Please place the bowl onto the stove.",
+        "Can you set the bowl on the stove?",
+        "OpenVLA, could you move the bowl to the stove?"
+    ],
+    "put the bowl on top of the cabinet": [
+        "Place the bowl above the cabinet.",
+        "Could you position the bowl atop the cabinet?",
+        "OpenVLA, can you set the bowl on the cabinet's top?"
+    ],
+    "open the middle drawer of the cabinet": [
+        "Could you please open the cabinet's middle drawer?",
+        "Would you mind opening the middle drawer in the cabinet?",
+        "OpenVLA, can you access the middle drawer of the cabinet for me?"
+    ]
+}
