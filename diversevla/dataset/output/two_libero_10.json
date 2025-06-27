@@ -1,0 +1,52 @@
+{
+    "put the white mug on the left plate and put the yellow and white mug on the right plate": [
+        "place the white mug on the left plate and place the yellow and white mug on the right plate",
+        "put the white cup on the left dish and put the yellow and white cup on the right dish",
+        "set the white mug on the left plate and set the yellow and white mug on the right plate"
+    ],
+    "put the white mug on the plate and put the chocolate pudding to the right of the plate": [
+        "place the white mug on the dish and put the chocolate pudding to the right of the plate",
+        "put the white cup on the plate and place the chocolate pudding to the right of the dish",
+        "set the white mug on the plate and put the chocolate dessert to the right of the plate"
+    ],
+    "put the yellow and white mug in the microwave and close it": [
+        "place the yellow and white cup in the microwave and shut it",
+        "put the golden and white mug into the microwave and seal it",
+        "set the yellow and white mug inside the microwave and close the door"
+    ],
+    "turn on the stove and put the moka pot on it": [
+        "activate the stove and place the moka pot on it",
+        "switch on the stove and set the moka pot on it",
+        "ignite the stove and position the moka pot on it"
+    ],
+    "put both the alphabet soup and the cream cheese box in the basket": [
+        "place both the alphabet soup and the cream cheese container in the basket",
+        "put both the letter soup and the cream cheese box into the basket",
+        "place both the alphabet soup and the cream cheese package in the basket"
+    ],
+    "put both the alphabet soup and the tomato sauce in the basket": [
+        "place both the alphabet soup and the tomato sauce in the basket",
+        "put both the letter pasta and the tomato sauce in the container",
+        "place both the alphabet soup and the marinara sauce in the basket"
+    ],
+    "put both moka pots on the stove": [
+        "place both moka pots on the stove",
+        "put both coffee makers on the stove",
+        "set both moka pots on the burner"
+    ],
+    "put both the cream cheese box and the butter in the basket": [
+        "place both the cream cheese container and the butter in the basket",
+        "put both the cream cheese package and the margarine in the basket",
+        "set both the cream cheese box and the butter inside the basket"
+    ],
+    "put the black bowl in the bottom drawer of the cabinet and close it": [
+        "place the dark bowl in the lowest drawer of the cabinet and shut it",
+        "set the black dish in the bottom compartment of the cabinet and close it",
+        "position the ebony bowl in the lower drawer of the cupboard and seal it"
+    ],
+    "pick up the book and place it in the back compartment of the caddy": [
+        "grab the book and put it in the rear section of the caddy",
+        "lift the book and position it in the back part of the caddy",
+        "take the book and set it in the back area of the caddy"
+    ]
+}

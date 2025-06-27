@@ -1,0 +1,52 @@
+{
+    "pick up the black bowl next to the cookie box and place it on the plate": [
+        "Could you grab the black bowl beside the cookie box and set it down on the plate?",
+        "Please take the black bowl located near the cookie box and move it onto the plate.",
+        "OpenVLA, can you lift the black bowl that's next to the cookie box and position it on the plate?"
+    ],
+    "pick up the black bowl in the top drawer of the wooden cabinet and place it on the plate": [
+        "Could you please take the black bowl from the wooden cabinet's top drawer and set it on the plate?",
+        "OpenVLA, can you grab the black bowl located in the top drawer of the wooden cabinet and then put it onto the plate?",
+        "Would you mind lifting the black bowl out of the wooden cabinet's top drawer and placing it on the plate?"
+    ],
+    "pick up the black bowl on the ramekin and place it on the plate": [
+        "Could you please take the black bowl that's on the ramekin and move it to the plate?",
+        "OpenVLA, can you lift the black bowl from the ramekin and set it down on the plate?",
+        "Would you mind transferring the black bowl from the ramekin onto the plate?"
+    ],
+    "pick up the black bowl on the stove and place it on the plate": [
+        "Could you please take the black bowl from the stove and set it down on the plate?",
+        "OpenVLA, can you move the black bowl that's on the stove onto the plate?",
+        "I need you to grab the black bowl off the stove and then put it onto the plate."
+    ],
+    "pick up the black bowl between the plate and the ramekin and place it on the plate": [
+        "Could you please lift the black bowl that's situated between the plate and the ramekin and then set it down on the plate?",
+        "OpenVLA, can you grab the black bowl located between the plate and the ramekin and move it onto the plate?",
+        "Would you mind taking the black bowl from between the plate and the ramekin and placing it onto the plate?"
+    ],
+    "pick up the black bowl on the cookie box and place it on the plate": [
+        "Could you please take the black bowl from the cookie box and set it down on the plate?",
+        "OpenVLA, can you move the black bowl that's on the cookie box to the plate?",
+        "I need you to lift the black bowl off the cookie box and then position it onto the plate."
+    ],
+    "pick up the black bowl next to the plate and place it on the plate": [
+        "Could you please take the black bowl beside the plate and move it onto the plate?",
+        "OpenVLA, can you grab the black bowl that's next to the plate and set it down on the plate?",
+        "Would you mind lifting the black bowl adjacent to the plate and placing it on top of the plate?"
+    ],
+    "pick up the black bowl next to the ramekin and place it on the plate": [
+        "Please take the black bowl that's beside the ramekin and set it onto the plate.",
+        "Could you grab the black bowl adjacent to the ramekin and move it to the plate?",
+        "OpenVLA, can you lift the black bowl near the ramekin and position it on the plate?"
+    ],
+    "pick up the black bowl from table center and place it on the plate": [
+        "Could you please take the black bowl located at the center of the table and move it onto the plate?",
+        "OpenVLA, can you grab the black bowl from the middle of the table and set it down on the plate?",
+        "Would you mind lifting the black bowl from the table's center and placing it onto the plate?"
+    ],
+    "pick up the black bowl on the wooden cabinet and place it on the plate": [
+        "Could you please take the black bowl from the wooden cabinet and set it down on the plate?",
+        "OpenVLA, can you move the black bowl that's on the wooden cabinet onto the plate?",
+        "Would you mind lifting the black bowl off the wooden cabinet and placing it onto the plate?"
+    ]
+}
